@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+ /* .HobbyData { 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}  */
+
+table, td {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ td {
+  padding: 15px;
+}
+/* .HobbyData button {
+  display: flex;
+  flex-direction: flex-end;
+  padding: 20px;
+  background-color: #f576a0;
+} */
+
+/* .HobbyData h4 {
+  border: 1px solid black;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+} */
+
+/* .HobbyData button {
+  width: 60px;
+  height: 20px;
+} */
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.buttonText {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ .container__right{
+   margin-left: 200px;
+   
+} 
+
+.option__text {
+  width: 217px;
+}
+/* .HobbyData td{
+  padding: 20px;
+  width: 150px;
+  height: 10px;
+  margin: 20px;
+} */
+
+/* @media screen and (min-width: 767px) {
+  .container {
+    background-color: gray;
+  }
+} */
