@@ -23,8 +23,9 @@ database filename: hobbydb.sql
 4) In order to run the application first go to the client directory and run the following command
 
   yarn/npm run
-5) Then go the server directory and run the following command
+5) At the same time open another command prompt and go to the server directory and run the following command
 
  node index.js
+ 
 6) Now visit localhost:3000 and you can see the application
 
